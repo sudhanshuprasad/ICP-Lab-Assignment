@@ -12,11 +12,7 @@ public class MinorProject {
 		for(int i=0;i<length;i++) {
 			boolean unique=true;	
 			for(int j=0;j<length;j++) {
-				
-				if(i==j) {
-					
-				}
-				else if(num.charAt(j)==num.charAt(i)) {
+				if(i!=j && num.charAt(j)==num.charAt(i)) {
 					unique=false;
 				}
 			}
