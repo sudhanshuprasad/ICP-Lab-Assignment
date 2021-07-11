@@ -9,6 +9,9 @@
     <fullyQualifiedTypeName name="java.lang.Math"/>
     <fullyQualifiedTypeName name="com.sun.tools.classfile.Annotation.element_value"/>
     <fullyQualifiedTypeName name="jdk.internal.org.jline.terminal.Size"/>
+    <fullyQualifiedTypeName name="student1"/>
+    <fullyQualifiedTypeName name="complex"/>
+    <fullyQualifiedTypeName name="student"/>
     <fullyQualifiedTypeName name="java.lang.String"/>
     <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.lang.System"/>

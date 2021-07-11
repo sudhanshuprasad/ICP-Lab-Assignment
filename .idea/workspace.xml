@@ -3,36 +3,123 @@
   <component name="ChangeListManager">
     <list default="true" id="c3e4c05f-0e13-47c2-a570-e420acae3251" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.history/cb/7086739ee439001b1c65b1dbf46ad55a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/.indexes/af/history.index" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/.markers" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/.markers" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/.markers.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment1/.syncinfo.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/1.snap" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/132620216.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/132620216.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/132620216.index" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.launching/.install.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.metadata/version.ini" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q1.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/bin/Q1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q9.class" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/bin/Q9.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Q1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment1/src/Q11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assignment2/src/Q11.java" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment2/src/Q11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1stSem_MinorProject/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1stSem_MinorProject/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1stSem_MinorProject/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1stSem_MinorProject/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1stSem_MinorProject/src/MinorProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment on Matrix/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment on Matrix/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment on Matrix/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment on Matrix/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment on Matrix/src/sum_of_major_diagonal.java" beforeDir="false" afterPath="$PROJECT_DIR$/2nd Semester/src/sum_of_major_diagonal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q11.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q12.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q13.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/bin/Q9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment1/src/Q9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/src/Example.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/src/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment2/src/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/src/Q9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/src/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/src/Q17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/src/Q19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/src/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/src/Q20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/src/Q3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment5/src/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/src/Q1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/src/Q2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment6/src/Q4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/src/classEx.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/src/complexSum.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/src/student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DSA_class/src/studentDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/.classpath" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/.project" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/.settings/org.eclipse.jdt.core.prefs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/Deletion_from_array.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/Febonacci.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/Febonacci2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/MinorProject.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/end_sem_exam.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/functionoverloading.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/minor_project_by_mihika.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/multiplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/sine.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICPclass/src/swapnum.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DSA-Lab-Assignment" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
